@@ -1,0 +1,6 @@
+com\castiel\Blowfish$BlowfishECB.class
+com\castiel\OpenFireEncryptor.class
+com\castiel\Blowfish.class
+com\castiel\Encryptor.class
+com\castiel\AesEncryptor.class
+com\castiel\Blowfish$BlowfishCBC.class
